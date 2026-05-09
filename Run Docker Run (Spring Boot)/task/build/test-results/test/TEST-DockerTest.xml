@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="DockerTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2026-05-09T00:52:23.842Z" hostname="MOHAIBRA" time="0.323">
+<testsuite name="DockerTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2026-05-09T15:03:57.922Z" hostname="MOHAIBRA" time="0.227">
   <properties/>
-  <testcase name="start" classname="DockerTest" time="0.323">
-    <failure message="java.lang.AssertionError: Wrong answer in test #1&#10;&#10;The provided Dockerfile path '/absolute/path/to/hyper-web-app/Dockerfile' is invalid or the file does not exist." type="java.lang.AssertionError">java.lang.AssertionError: Wrong answer in test #1
+  <testcase name="start" classname="DockerTest" time="0.227">
+    <failure message="java.lang.AssertionError: Wrong answer in test #1&#10;&#10;The provided Dockerfile path 'C:/Users/YourName/Desktop/hyper-web-app/Dockerfile' is invalid or the file does not exist." type="java.lang.AssertionError">java.lang.AssertionError: Wrong answer in test #1
 
-The provided Dockerfile path '/absolute/path/to/hyper-web-app/Dockerfile' is invalid or the file does not exist.
+The provided Dockerfile path 'C:/Users/YourName/Desktop/hyper-web-app/Dockerfile' is invalid or the file does not exist.
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.hyperskill.hstest.stage.StageTest.start(StageTest.java:238)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
@@ -50,7 +50,7 @@ The provided Dockerfile path '/absolute/path/to/hyper-web-app/Dockerfile' is inv
   </testcase>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
-/absolute/path/to/hyper-web-app/Dockerfile
+C:/Users/YourName/Desktop/hyper-web-app/Dockerfile
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

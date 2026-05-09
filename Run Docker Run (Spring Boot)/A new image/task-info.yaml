@@ -1,0 +1,10 @@
+type: edu
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/Tests.kt
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/507/stages/2986/implement#comment
+status: Unchecked
+record: -1

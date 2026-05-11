@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="23">
+      <module name="Run_Docker_Run_(Spring_Boot).Run_Docker_Run__Spring_Boot_-task-build-classes-kotlin.main" target="21" />
+      <module name="Run_Docker_Run_(Spring_Boot).Run_Docker_Run__Spring_Boot_-task-build-reports-tests.main" target="21" />
+      <module name="Run_Docker_Run_(Spring_Boot).Run_Docker_Run__Spring_Boot_-task-build-test-results.main" target="21" />
+      <module name="Run_Docker_Run_(Spring_Boot).Run_Docker_Run__Spring_Boot_-task-build-tmp.main" target="21" />
+      <module name="Run_Docker_Run_(Spring_Boot).Run_Docker_Run__Spring_Boot_-task.main" target="21" />
+      <module name="Run_Docker_Run_(Spring_Boot).util.main" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
